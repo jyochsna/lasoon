@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/lasoon/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lasoon/static/js/main.93e3829d.chunk.js",
-    "main.js.map": "/lasoon/static/js/main.93e3829d.chunk.js.map",
+    "main.js": "/lasoon/static/js/main.a85bf85d.chunk.js",
+    "main.js.map": "/lasoon/static/js/main.a85bf85d.chunk.js.map",
     "runtime-main.js": "/lasoon/static/js/runtime-main.18530a51.js",
     "runtime-main.js.map": "/lasoon/static/js/runtime-main.18530a51.js.map",
-    "static/js/2.a0c31166.chunk.js": "/lasoon/static/js/2.a0c31166.chunk.js",
-    "static/js/2.a0c31166.chunk.js.map": "/lasoon/static/js/2.a0c31166.chunk.js.map",
+    "static/js/2.b1b31c97.chunk.js": "/lasoon/static/js/2.b1b31c97.chunk.js",
+    "static/js/2.b1b31c97.chunk.js.map": "/lasoon/static/js/2.b1b31c97.chunk.js.map",
     "index.html": "/lasoon/index.html",
-    "precache-manifest.5f7ae38a0d6d55a44957d5c0e02e7baa.js": "/lasoon/precache-manifest.5f7ae38a0d6d55a44957d5c0e02e7baa.js",
+    "precache-manifest.f68267845d2227560acde46534f29076.js": "/lasoon/precache-manifest.f68267845d2227560acde46534f29076.js",
     "service-worker.js": "/lasoon/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/lasoon/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a0c31166.chunk.js.LICENSE.txt": "/lasoon/static/js/2.a0c31166.chunk.js.LICENSE.txt",
+    "static/js/2.b1b31c97.chunk.js.LICENSE.txt": "/lasoon/static/js/2.b1b31c97.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/lasoon/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.18530a51.js",
-    "static/js/2.a0c31166.chunk.js",
+    "static/js/2.b1b31c97.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.93e3829d.chunk.js"
+    "static/js/main.a85bf85d.chunk.js"
   ]
 }

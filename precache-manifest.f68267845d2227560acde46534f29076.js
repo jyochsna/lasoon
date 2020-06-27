@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5843dcf1a30d1961e44d0346af1c6e80",
+    "revision": "cf32107492be1de85648c9d559cba2b9",
     "url": "/lasoon/index.html"
   },
   {
-    "revision": "4b9bf9272e4dc078f9e9",
+    "revision": "9bf9991a11c00161af9d",
     "url": "/lasoon/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "340aac5933c756125f93",
-    "url": "/lasoon/static/js/2.a0c31166.chunk.js"
+    "revision": "6a10a78df6c76ca3a627",
+    "url": "/lasoon/static/js/2.b1b31c97.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/lasoon/static/js/2.a0c31166.chunk.js.LICENSE.txt"
+    "url": "/lasoon/static/js/2.b1b31c97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b9bf9272e4dc078f9e9",
-    "url": "/lasoon/static/js/main.93e3829d.chunk.js"
+    "revision": "9bf9991a11c00161af9d",
+    "url": "/lasoon/static/js/main.a85bf85d.chunk.js"
   },
   {
     "revision": "c419fe08972800870814",
